@@ -51,8 +51,6 @@ MDScreen:
             width: "200dp"
             pos_hint: {'center_x': .5, 'center_y': .3}
             on_release: app.calculate()
-        
-
 """
 
 class AgeCalculator(MDApp):
@@ -109,4 +107,4 @@ class AgeCalculator(MDApp):
 
 
 if __name__ == "__main__":
-    AgeCalculator().run()
+    AgeCalculator().run() # calling main class
