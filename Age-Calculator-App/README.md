@@ -1,5 +1,5 @@
 # Age Calculator App
-<hr>
+
 ### Introduction
 A Single page mobile app programmed using <b>Python</b> and designed using Kivy (Module).
 
